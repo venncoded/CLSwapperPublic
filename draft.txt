@@ -1,0 +1,23 @@
+?name?
+?address?
+?tsz?
+?number?
+?email?
+
+Attn:  $-%
+
+#
+
+Dear Hiring Manager,
+
+I am writing to you today regarding the % position available with $.  I am a recent graduate of Rochester Institute of Technology with a bachelor's degree in Software Engineering.  I have in-school experience with various languages, such as C, Java, Python and Ruby, and with various tools, such as Figma, SQL, Junit, and principles. I am able to collaborate efficiently as part of a team and am also able to work well independently.  My past work experiences and my internship opportunities have given me the ability to swiftly find my space in a new work environment. I am confident that my skills and abilities will make me an integral part of $. I am excited for the opportunity to use my programming skills in a real-world setting and to learn, grow and develop those skills with $.    
+
+I look forward to hearing from you regarding the % position so we can further discuss the possibilities.
+
+Thank you.
+
+Sincerely,
+
+
+?name?
+test
